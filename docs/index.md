@@ -2,6 +2,8 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+请查看 [关于我](about/about.md) 获取我的联系方式。
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.

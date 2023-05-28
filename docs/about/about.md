@@ -1,9 +1,16 @@
 ---
-title: 关于我
-date: 2020-10-26 21:48:02
-type: about
-comments: true
+title: My Document
+summary: A brief description of my document.
+authors:
+    - Waylan Limberg
+    - Tom Christie
+date: 2018-07-10
+some_url: https://example.com
 ---
+
+
+# 关于我
+
 
 
 此时 此地 此身
@@ -18,7 +25,10 @@ comments: true
 
 不做情绪的奴隶，爱我所爱，行我所行
 
-大千世界，酸甜苦辣，喜怒哀乐，在所难免，从宇宙尺度上看，我们皆为过客，“凡所有相，皆是虚妄”。本站不易查找，偶然光临，皆为缘分。欢迎下方留言，或者通过下面的联系方式：
+大千世界，酸甜苦辣，喜怒哀乐，在所难免，从宇宙尺度上看，我们皆为过客，“凡所有相，皆是虚妄”。本站不易查找，偶然光临，皆为缘分。
+
+## 联系方式
+欢迎下方留言，或者通过下面的联系方式：
 
 邮箱 ：zhiyo2016@163.com
 
@@ -31,8 +41,6 @@ CSDN：https://blog.csdn.net/u010698107
 微信公众号：
 
 ![Screenshot](about/wechat.png)
-
-<img src="about/wechat.png" width="30%" height="30%" />
 
 本博客用于记录整理平时生活或者工作中学到的知识及感悟，如无特殊说明，皆为原创，转载请注明出处！
 
