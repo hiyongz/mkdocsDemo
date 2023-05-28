@@ -1,0 +1,6 @@
+site_name: My Docs
+theme: readthedocs
+# theme: mkdocs
+nav: 
+    - 主页: index.md
+    - 关于我: about/about.md
